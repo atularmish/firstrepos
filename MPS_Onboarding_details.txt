@@ -1,0 +1,108 @@
+Page#4,8,10,11,13,16,
+
+https://docs.docker.com/engine/install/ubuntu/
+
+	
+ZkjrK3eajcml5wrxC8kQAxs2PKX3tR_HnvQ6sefR - API Token - 120721
+
+
+curl -L https://github.com/docker/compose/releases/download/1.11.2/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+
+https://hub.docker.com/ - ratulmishra/SamSung12#
+
+
+30-06-21
+https://github.com/marketplace/actions/deploy-to-cloudflare-workers-with-wrangler
+https://www.cloudbees.com/blog/automating-cloudflare-worker-deployments-codeship
+https://blog.cloudflare.com/a-ci/
+https://egghead.io/lessons/cloudflare-install-and-configure-the-cloudflare-workers-cli-wrangler
+https://egghead.io/courses/introduction-to-cloudflare-workers-5aa3
+https://www.whizlabs.com/learn/course/quiz-result/3759762
+https://www.linkedin.com/learning/linux-foundation-cert-prep-essential-commands-ubuntu/files-on-linux
+https://www.udemy.com/course/linux-system-administration/learn/lecture/26420976#overview
+https://dash.cloudflare.com/login
+https://developers.cloudflare.com/workers/cli-wrangler/install-update
+https://egghead.io/lessons/cloudflare-preview-and-publish-your-cloudflare-workers-project
+steps to setup cloudflare workers on you tube
+https://developers.cloudflare.com/workers/
+https://code.visualstudio.com/docs/?dv=win
+https://tntdrive.com/where-do-i-get-my-access-keys.aspx
+
+
+
+
+Kavyatolety
+AWS:
+Account ID, My Account:481488504152
+
+Taruna Singh: 9891339957
+
+PF#:DS/NHP/0940687/10144
+
+Office Admin Center/Teams
+Username:atul.mishra@futurelabindia.com
+Password: Quw86217
+New Passwd: @tul_m21$
+
+
+1. EMP ID: MAC009567 ; 
+2. BU - Division : Technology
+3. Dept: HIGHWIRE
+4. Designation: Manager - D4
+5. Joining Date:14/06/21
+6. Place : NOIDA
+
+Email ID:atul.mishra@mpslimited.com/Fus95075
+
+Laptop Login Credentials:mps@1234
+
+Cloudflare login credentials : atul.mishra@mpslimited.com/mps@1234#
+
+Slack login Credentials : atul.mishra/mps@1234#
+
+Jira login credentials : atul.mishra/mps@1234#
+
+github login:ratulmish/mps@1234#
+
+Portal Login (HR One Crdentials):
+
+https://mps.hrone.cloud/Account/Index 
+
+UserID:MAC009567
+Passwd:SamSung12#
+
+Portal Support:
+
+HR-  taruna.singh@mpslimited.com   -9891339957 extn. 777
+IT infrastructure-  rajat.malik@mpslimited.com – 9873413095 extn. 792, anjani.gupta@mpslimited.com  - 9990828066 extn. 775
+Administration and facility management- mukesh.tiwari@mpslimited.com  - 9910036401 extn. 752, admin-noida@mpslimited.com  extn. 701
+
+
+Mediclaim Policy Number: P/161219/01/2021/001639
+
+Samir Chowdhary - Reporting Manager ; Introduction completed at first day
+Automation - Ansible , Puppet , Chef (Playbooks)
+Best-Practices (SAML - 2.0 , Cognito service from AWS..) 
+
+https://www.udemy.com/course/linux-system-administration/learn/lecture/26419542#overview
+https://www.linkedin.com/learning/aws-for-devops-monitoring-metrics-and-logging/welcome
+https://pkg.jenkins.io/redhat-stable/
+https://devopscube.com/how-to-setup-gui-for-amazon-ec2-rhel-7-instance/
+https://www.tecmint.com/install-gui-on-rhel-8/
+https://www.google.com/search?q=cloudflare+workers+on+you+youtube&rlz=1C1CHZN_enIN928IN928&sxsrf=ALeKk02hk4Dt3LjuYQ6LE8Ukm3UBU7WJsw%3A1624478188174&ei=7JHTYIboCcGH8QOlzpboAQ&oq=cloudflare+workers+on+you+tube&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCCEQChCgAToECCMQJzoFCAAQkQI6CAgAELEDEIMBOgUIABCxAzoICC4QsQMQgwE6AggAOgQIABBDOgQILhBDOgcILhCxAxBDOgcIABCxAxBDOgYIABAWEB46BQghEKABOggIIRAWEB0QHkoECEEYAFCoMljwXWCPaGgAcAF4AIABswGIAeAgkgEEMC4zMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz
+https://www.youtube.com/channel/UC3QIolTSR29ba4_u15vtEUQ
+https://www.youtube.com/results?search_query=cloudflare+workers
+https://www.youtube.com/watch?v=KMEgJRqYzzg
+https://www.digitalocean.com/community/questions/ssh-copy-id-not-working-permission-denied-publickey
+https://www.google.com/search?q=steps+to+install+npm+package+in+ubuntu+20.04&rlz=1C1CHZN_enIN928IN928&sxsrf=ALeKk00LtMrOsIZaixWUsFKoO0cbWTytbw%3A1624521968110&ei=8DzUYL_0BYGLmgeE3ovYCA&oq=steps+to+instal+npm+package+in+ubuntu&gs_lcp=Cgdnd3Mtd2l6EAMYATIKCCEQFhAKEB0QHjIKCCEQFhAKEB0QHjIKCCEQFhAKEB0QHjoFCAAQkQI6BQgAELEDOggIABCxAxCDAToCCC46AggAOgQIIxAnOgQIABBDOgcIABCxAxBDOgQILhBDOgcILhCxAxBDOgUILhCxAzoHCAAQhwIQFDoGCAAQFhAeOgcIIxCwAhAnOgQIABANOgYIABANEB46CAgAEBYQChAeSgQIQRgAUNriElidlhNgjqgTaABwAHgAgAGOAogBrC6SAQYwLjM2LjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz
+https://dash.cloudflare.com/login
+
+
+Stamp Duty (Memorandom) - 600
+	Stamp Duty (Article) - 1000
+	Spice Plus - 100
+	Licenses Charges - 1124/-
+	Digital Sugnature - 3000/-
+	Proffessional Fees - 6299 + GST (1876)
+	MSME - 700/-
